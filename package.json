@@ -7,8 +7,10 @@
     "dev": "vite",
     "build": "vite build"
   },
+  "devDependencies": {
+    "vite": "^4.5.0"
+  },
   "dependencies": {
-    "vite": "^4.5.0",
     "three": "^0.158.0"
   }
 }
